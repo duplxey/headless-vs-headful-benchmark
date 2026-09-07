@@ -12,3 +12,4 @@ All runs were on a Mac with an 18-core Apple Silicon chip and 48GB of RAM, runni
    ```sh
    $ python browser_bench.py
    ```
+4. The results get written to *browser_bench-results.json*.
